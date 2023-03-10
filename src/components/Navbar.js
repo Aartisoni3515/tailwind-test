@@ -32,7 +32,7 @@ const Navbar = () => {
         <li className="p-4 border-b border-gray-600">Home</li>
         <li className="p-4 border-b border-gray-600">Services</li>
         <li className="p-4 border-b border-gray-600">About</li>
-        <li className="p-4">Contact</li>
+        <li className="p-4 border-2 border-green-400 rounded-lg w-24 text-center mt-2 pt-1">Contact</li>
       </ul>
     </div>
   );
